@@ -39,9 +39,9 @@ bind(
 #
 # Note: this is needed by release builder to resolve envoy dep sha to tag.
 # Commit date: 2022-12-19
-ENVOY_SHA = "6410bb5665037144c78ff919f85ef5e44d753e49"
+ENVOY_SHA = "e60c037374470537735d49f169067481023d1d49"
 
-ENVOY_SHA256 = "ddb7ed25eba44fbe0115a43d2664f69ef81075673aa056c1768b8aa000cce3e7"
+ENVOY_SHA256 = "f9bc3b1c7345a45970463487cdb8e48da5a3c55d99a581495f865b0249237abf"
 
 ENVOY_ORG = "nokia"
 
